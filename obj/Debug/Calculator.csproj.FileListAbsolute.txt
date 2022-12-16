@@ -1,0 +1,11 @@
+C:\Users\Vadim\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Vadim\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\Vadim\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\Vadim\source\repos\Calculator\obj\Debug\Calculator.pdb
